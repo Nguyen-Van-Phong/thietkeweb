@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table{
+    background-color:dimgray;
+    margin: auto;
+}
+#Result{
+    width: 220px;
+}
+.btn{
+    width: 36px;
+    height: 32px;
+    border-radius: 7px;
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
